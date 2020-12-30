@@ -14,6 +14,7 @@ name = "bombcampaign-rust"
 [dependencies]
 actix-rt = "1.1.1"
 actix-web = "3.3.2"
+tokio = "0.2.22"
 
 [dev-dependencies]
 reqwest = "0.10.10"
